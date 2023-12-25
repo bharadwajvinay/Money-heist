@@ -1,4 +1,5 @@
 # Money-heist
 this is my first repository
 <br>
-author - sergio
+author - sergio (ramos)
+
